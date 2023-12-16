@@ -1,3 +1,5 @@
+package dbdz.config;
+
 import java.util.Properties;
 
 public class DatabaseProperties extends Properties {
